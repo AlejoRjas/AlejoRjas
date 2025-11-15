@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-My name is Alejandro, i want put some C++ and python.
+My name is Alejandro, i want put some C++ and python. 😄
 
 <!--
 **AlejoRjas/AlejoRjas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
